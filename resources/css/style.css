@@ -5,3 +5,9 @@ p {
 body {
     background-color: #000;
 }
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
